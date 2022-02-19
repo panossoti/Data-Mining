@@ -1,2 +1,2 @@
 # Data-Mining
-Image data clustering algorithms
+Image data clustering algorithms. The models created is a good foundation for clustering model theory. 5 different models where optimised using the grid search method and trained on pre-processed data. In the end kernelised SVM and knn with neighbor_number = 5 where chosen as the best performers. Part 4)  also contains Principal component analysis reducing the dataset to 2 determinants out of the 784 and then to 500 components that explain 95% of the variance 
